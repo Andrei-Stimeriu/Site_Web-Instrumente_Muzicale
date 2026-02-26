@@ -1,0 +1,19 @@
+#fundal{
+  background-image: url("../Imagini/pian/pian.jpg");
+  background-size: cover;
+  opacity: 0.3;
+}
+
+#descriere, #titluElectric{
+  clear: both;
+}
+
+#ramaForte{
+	clear: left;
+}
+#ramaSpil, #ramaClavi, #ramaEvo, #ramaForte, #ramaInt, #ramaCoada{
+  float: left;
+}
+#ramaBech, #ramaClave, #ramaNina{
+  float: right;
+}

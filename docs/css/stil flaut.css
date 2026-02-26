@@ -1,0 +1,15 @@
+﻿#fundal{
+  background-image: url("../Imagini/flaut/flaut.jpg");
+  opacity: 0.2;
+}
+
+#ramaInt, #ramaAntic, #ramaEvo, #ramaDulce{
+  float: left;
+}
+#ramaTrav{
+  float: right;
+}
+
+#descriere{
+  clear: both;
+}
