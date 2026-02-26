@@ -1,0 +1,16 @@
+﻿#fundal{
+  background-image: url("../Imagini/chitara/chitara.jpg");
+  background-size: cover;
+  opacity: 0.3;
+}
+
+#ramaEvo, #ramaBaroca, #ramaVib, #ramaClasica{
+  float: left;
+}
+#ramaElec{
+  float: right;
+}
+
+#descriere{
+  clear: both;
+}

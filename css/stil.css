@@ -1,0 +1,17 @@
+h1{
+  font-size: 4vw;
+}
+h3{
+  margin-top: -5.2vh;
+}
+
+#pozaOrchestra{
+  filter: sepia();
+  width: 93%; height: auto;
+  border: inset 0.65vmax #ff4040;
+  border-radius: 0.3vmax;
+  transition: filter 0.2s;
+}
+#pozaOrchestra:hover{
+  filter: none;
+}

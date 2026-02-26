@@ -1,0 +1,16 @@
+﻿#fundal{
+  background-image: url("../Imagini/acordeon/acordeon.jpg");
+  background-size: cover;
+  opacity: 0.2;
+}
+
+#ramaTip, #rama1830, #ramaBasi, #ramaPian{
+  float: left;
+}
+#ramaCarte, #ramaJanko{
+  float: right;
+}
+
+#descriere{
+  clear: both;
+}

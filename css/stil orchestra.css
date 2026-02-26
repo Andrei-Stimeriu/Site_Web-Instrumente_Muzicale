@@ -1,0 +1,23 @@
+﻿#fundal{
+  background-image: url("../Imagini/orchestra/orchestra.jpg");
+  background-size: cover;
+  opacity: 0.2;
+}
+
+#pagCurenta{
+  margin: 0;
+  margin-left: 0.8vw;
+}
+
+#apare{
+  position: absolute;
+  z-index: 1;
+  margin-top: -0.8vw;
+}
+
+#ramaUii, #ramaCamera{
+  float: left;
+}
+#ramaSimfonica{
+  float: right;
+}

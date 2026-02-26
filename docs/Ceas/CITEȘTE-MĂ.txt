@@ -1,0 +1,19 @@
+﻿Acesta este un modul ceas cu note muzicale pentru site-uri, scris în HTML, CSS și Javascript. Realizat de Andrei Stimeriu.
+
+(c) 2025
+
+Pentru a-l utiliza:
+
+Copiati folderul „Ceas” în folderul care conține fișierul html al site-ului dumneavoastră.
+
+Copiați conținutul folderului „Coduri” (NU COPIAȚI FOLDERUL! COPIAȚI NUMAI CE ESTE ÎNĂUNTRU) în afara folderului „Ceas”, în interiorul folderului care conține fișierul html al site-ului dumneavoastră.
+
+
+
+Copiați „PARTEA 1” a conținutului fișierului „html.html” în fișierul html al site-ului dumneavoastră, în interiorul tag-ului „body”.
+
+Copiați „PARTEA 2” a conținutului fișierului „html.html” în fișierul html al site-ului dumneavoastră. (ÎN AFARA ORICĂRUI TAG)
+
+Notă: Folderul care conține fișierul html al site-ului dumneavoastră poate conține mai multe pagini (fișiere html). Copiați cele 2 părți în interiorul tuturor paginilor (fișierelor html) în care doriți ceasul.
+
+Acum aveți ceasul! :) Dați click pe el pentru a-l retrage în partea de jos și pentru a-l aduce înapoi.
