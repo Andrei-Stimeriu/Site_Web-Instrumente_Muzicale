@@ -1,6 +1,6 @@
 # Site web - Instrumente muzicale \(HTML + CSS + JAVASCRIPT\)
 
-VIZITEAZĂ SITE-UL [AICI](https://andrei-stimeriu.github.io/Site_Web-Instrumente_Muzicale/)
+### VIZITEAZĂ SITE-UL [AICI](https://andrei-stimeriu.github.io/Site_Web-Instrumente_Muzicale/)
 
 Această lucrare este un site scris în HTML și CSS, care au fost deasemenea folosite împreună cu Javascript pentru a crea ceasul prezent pe fiecare pagină. Am folosit și C++ \(cu biblioteca SFML\) și OpenGL shading language \(GLSL\) pentru a crea animația de pe pagina principală.
 \(Pentru animație, a se vedea și proiectul [3D_Raymarching](https://github.com/Andrei-Stimeriu/3D_Raymarching.git)\)
